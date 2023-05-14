@@ -1,0 +1,6 @@
+geographiclib==2.0
+geopy==2.3.0
+lxml==4.9.2
+numpy==1.24.3
+pykml==0.2.0
+shapely==2.0.1

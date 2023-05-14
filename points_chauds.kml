@@ -1,0 +1,133 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Folder>
+      <name>Points chauds</name>
+      <Placemark>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.042014200000001,50.69478380000001</coordinates>
+        </Point>
+        <name>Point chaud</name>
+        <description>Lieu de passage &#224; fort trafic</description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.041264225,50.693039325</coordinates>
+        </Point>
+        <name>Point chaud</name>
+        <description>Lieu de passage &#224; fort trafic</description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.03778975,50.6950863</coordinates>
+        </Point>
+        <name>Point chaud</name>
+        <description>Lieu de passage &#224; fort trafic</description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.038111600000001,50.695171200000004</coordinates>
+        </Point>
+        <name>Point chaud</name>
+        <description>Lieu de passage &#224; fort trafic</description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.0391174,50.6942197</coordinates>
+        </Point>
+        <name>Point chaud</name>
+        <description>Lieu de passage &#224; fort trafic</description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.0400938,50.6946564</coordinates>
+        </Point>
+        <name>Point chaud</name>
+        <description>Lieu de passage &#224; fort trafic</description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.039552,50.6935877</coordinates>
+        </Point>
+        <name>Point chaud</name>
+        <description>Lieu de passage &#224; fort trafic</description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.0398524,50.6930236</coordinates>
+        </Point>
+        <name>Point chaud</name>
+        <description>Lieu de passage &#224; fort trafic</description>
+      </Placemark>
+      <Placemark>
+        <Style>
+          <IconStyle>
+            <Icon>
+              <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+            </Icon>
+          </IconStyle>
+        </Style>
+        <Point>
+          <coordinates>4.0407911,50.6931595</coordinates>
+        </Point>
+        <name>Point chaud</name>
+        <description>Lieu de passage &#224; fort trafic</description>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
